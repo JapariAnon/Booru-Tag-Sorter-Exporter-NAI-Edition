@@ -18,8 +18,8 @@
 // @grant        GM.notification
 // @grant        GM.addStyle
 // @license      AGPL-3.0
-// @downloadURL 
-// @updateURL 
+// @downloadURL https://github.com/JapariAnon/Booru-Tag-Sorter-Exporter-NAI-Edition/raw/refs/heads/main/Booru-Tag-Sorter-Exporter-NAI-Edition.user.js
+// @updateURL https://github.com/JapariAnon/Booru-Tag-Sorter-Exporter-NAI-Edition/raw/refs/heads/main/Booru-Tag-Sorter-Exporter-NAI-Edition.user.js
 // ==/UserScript==
 
 // Forked from FSpark/Danbooru-Tags-Exporter(https://github.com/FSpark/Danbooru-Tags-Exporter) and Takenoko3333/Danbooru-Tags-Exporter(https://github.com/Takenoko3333/Danbooru-Tags-Sort-Exporter)
