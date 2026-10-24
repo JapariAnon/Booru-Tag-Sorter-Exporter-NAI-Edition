@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Booru Tag Sorter Exporter NAI Edition
-// @namespace    https://github.com/Takenoko3333/Danbooru-Tags-Sort-Exporter
-// @supportURL   https://github.com/Takenoko3333/Danbooru-Tags-Sort-Exporter/issues
-// @homepageURL  https://github.com/Takenoko3333/Danbooru-Tags-Sort-Exporter
+// @namespace    https://github.com/JapariAnon/Booru-Tag-Sorter-Exporter-NAI-Edition/
+// @supportURL   https://github.com/JapariAnon/Booru-Tag-Sorter-Exporter-NAI-Edition//issues
+// @homepageURL  https://github.com/JapariAnon/Booru-Tag-Sorter-Exporter-NAI-Edition/
 // @require      https://greasemonkey.github.io/gm4-polyfill/gm4-polyfill.js
 // @version      0.9.0
 // @description  Selects, sorts and exports tags from *booru posts to your clipboard, ready to be pasted in your local UI or NovelAI.
